@@ -30,7 +30,7 @@
 [![Build Status](https://img.shields.io/badge/Build-Success-brightgreen)](success)
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](contributors)
 
-Welcome to Agrimart, your number one source for all your agricultural needs. We're dedicated to giving you the very best of all services, with a highly converged focus on hygine, good customer service and uniqueness under the hood. We hope you enjoy our products and services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.
+Welcome to Agrimart, your number one source for all your agricultural needs. We're dedicated to giving you the very best of all services, with a highly converged focus on hygiene, good customer service and uniqueness under the hood. We hope you enjoy our products and services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.
 
 <p align="center">
   <img src = "https://github.com/parikshit223933/AgriMart/blob/master/client/src/images/sc2.PNG" width=400><img src = "https://github.com/parikshit223933/AgriMart/blob/master/client/src/images/sc1.PNG" width=400>
